@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-IT Intern<br>Graduate Student in Software Engineering<br>Looking to lunch my early career as a Software Developer<br>Have a great passion for Machine Learning<br>Web Development, Android Development<br>Technology Enthusiasts 
+IT Professional<br>Graduate Student in Software Engineering<br>Looking to develop my early career as a Software Developer<br>Have a great passion for Machine Learning<br>Web Development, Android Development<br>Technology Enthusiasts 
 
 
 ## 🌐 Socials:
