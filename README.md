@@ -23,7 +23,7 @@
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 😂 Random Dev Joke:
-![Random Dev Joke](https://v2.jokeapi.dev/joke/Programming?type=single&format=png)
+Check out [DevHumor](https://devhumor.com/) for your daily dose of programming jokes!
 
 
 ---
