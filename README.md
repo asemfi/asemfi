@@ -19,8 +19,7 @@
 ## 🏆 GitHub Trophies:
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=asemfi&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
-### 😂 Random Dev Joke:
-![Random Dev Joke](https://v2.jokeapi.dev/joke/Programming?type=single)
+
 
 
 
