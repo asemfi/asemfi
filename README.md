@@ -22,8 +22,9 @@
 ### ✍️ Random Dev Quote:
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 😂 Random Dev Meme:
-<img src="https://random-memer.herokuapp.com/" alt="Random Dev Meme" width="400px"/>
+### 😂 Random Dev Joke:
+![Random Dev Joke](https://v2.jokeapi.dev/joke/Programming?type=single&format=png)
+
 
 ---
 
