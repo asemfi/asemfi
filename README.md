@@ -25,7 +25,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=asemfi&theme=dark&hide_border=false)
 
 ## 🏆 GitHub Trophies:
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=asemfi&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=asemfi)](https://github.com/asemfi/github-profile-trophy)
 
 
 
